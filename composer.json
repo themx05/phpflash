@@ -1,0 +1,14 @@
+{
+    "name": "php-max",
+    "version": "1.0.0",
+    "description": "Fast Php Routing System",
+    "authors": [
+        {
+            "name": "Maximilien Comlan",
+            "email": "maximiliencomlan05@gmail.com",
+            "homepage": "https://themx.io",
+            "role": "Creator",
+        }
+    ],
+    "require": {}
+}
